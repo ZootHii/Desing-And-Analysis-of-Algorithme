@@ -1,2 +1,2 @@
-# Desing And Analysis of Algorithme
+# Desing And Analysis of Algorithms
  Course Problem Solutions
